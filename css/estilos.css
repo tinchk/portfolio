@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;1,200&display=swap");
+body {
+  font-family: "Montserrat", sans-serif;
+}
+#contacto {
+  background-image: url("../images/fondo-contacto.png");
+  background-size: cover;
+}
+h1 {
+  color: #e20000;
+}
+p{
+  color: #6a6a6a;
+}
+footer {
+  color: white;
+}
+footer a{
+  color: white;
+}
+.btn { color: #370a6d ; 
+       background-color: white ;
+}
+.btn:hover {
+       color: white;
+       background-color: #370a6d; 
+}
+footer .fa-linkedin-in {
+  color: #ff4a49;
+  background-color: white;
+  font-size: 20px;
+  border: 0;
+  height: 32px;
+  width: 32px;
+  text-align: center;
+  border-radius: 80px;
+  padding: 8px 0 0 0;
+  margin: 0 8px;
+ }
+  
