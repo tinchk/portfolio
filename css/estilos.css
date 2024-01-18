@@ -6,8 +6,32 @@ body {
   background-image: url("../images/fondo-contacto.png");
   background-size: cover;
 }
+#inicio {
+          background-image: url("../images/cohete.svg");
+          background-size: 400px;
+          background-repeat: no-repeat;
+          background-position: 500px 108px;
+        }
+#proyectos{
+           background-image: url("../images/fondo-proyectos.png"); 
+           background-size: cover;
+}
+.clientes {
+            background-position-x: center;
+            margin-bottom: auto;
+            size: 100px;
+}
+
+
+
+#sobre-mi {
+                    
+}
+
 h1 {
   color: #e20000;
+  font-size: 36px;
+  font-weight: bold;
 }
 p{
   color: #6a6a6a;
@@ -37,4 +61,16 @@ footer .fa-linkedin-in {
   padding: 8px 0 0 0;
   margin: 0 8px;
  }
-  
+
+ footer .fa-whatsapp{
+  color: #ff4a49;
+  background-color: white;
+  font-size: 20px;
+  border: 0;
+  height: 32px;
+  width: 32px;
+  text-align: center;
+  border-radius: 80px;
+  padding: 8px 0 0 0;
+  margin: 0 8px;
+ }
