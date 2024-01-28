@@ -22,10 +22,13 @@ h1 {
   font-weight: bold;
 }
 h2 {
-  
-    
-}
+     text-transform: uppercase;
+     color: white;
+     font-size: 16px;
+     background: rgba(215, 11, 11, 1);
+     font-weight: 400;   
 
+    }
 
 p{
   color: #6a6a6a;
