@@ -21,18 +21,31 @@ h1 {
   font-size: 36px;
   font-weight: bold;
 }
-h2 {
-     text-transform: uppercase;
-     color: white;
-     font-size: 16px;
-     background: rgba(215, 11, 11, 1);
-     font-weight: 400;   
-
-    }
-
+    
+.proyecto h2{ 
+              font-size: 16px;
+              text-transform: uppercase;
+              color: white;
+              background: rgb(125,7,7);
+              background: linear-gradient(90deg, rgba(125,7,7,1) 0%, rgba(215,11,11,1) 100%);
+              padding: 16px;
+}
+.proyecto img{
+               height: 212px;
+}
 p{
   color: #6a6a6a;
+  text-align: justify;
 }
+
+.proyecto p{ 
+          font-size: 14px;
+          color: #6a6a6a;
+          height: 100px;
+          
+        }
+
+
 footer {
   color: white;
 }
@@ -42,10 +55,18 @@ footer a{
 .btn { color: #370a6d ; 
        background-color: white ;
 }
+
 .btn:hover {
        color: white;
        background-color: #370a6d; 
 }
+.btn btn-rojo {
+          background-color: #E20000;
+          border-radius: 20px;
+          font-weight: 100;
+          border: 1px solid red;
+        }
+
 footer .fa-linkedin-in {
   color: #ff4a49;
   background-color: white;
