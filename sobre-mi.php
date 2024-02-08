@@ -1,3 +1,8 @@
+
+<?php
+       $verif = "sobre-mi";
+?>
+
 <!DOCTYPE html>
 <html lang="es">
 

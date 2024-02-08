@@ -1,3 +1,8 @@
+
+<?php
+       $verif = "proyectos";
+?>
+
 <!DOCTYPE html>
 <html lang="es" class="h-100">
 
@@ -95,7 +100,7 @@
         <a href="https://api.whatsapp.com/send?phone=+541121766798" target="_blank"><i
                 class="fa-brands fa-whatsapp px-3 pt-3 pb-4"></i></a>
     </footer>
-</body>>
+</body>
 </html>        
     
     

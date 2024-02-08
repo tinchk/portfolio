@@ -1,3 +1,8 @@
+
+<?php
+       $verif = "inicio";
+?>
+
 <!DOCTYPE html>
 <html lang="es">
 
@@ -16,7 +21,7 @@
     <header class="container">
          <?php include_once "menu.php"; ?>
    </header>
-    <main class="container">
+       <main class="container">
              
 
     </main>

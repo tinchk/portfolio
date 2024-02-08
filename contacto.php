@@ -1,3 +1,8 @@
+
+<?php
+       $verif = "contacto";
+?>
+
 <!DOCTYPE html>
 <html lang="es" class="h-100">
 
