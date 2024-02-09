@@ -8,8 +8,8 @@ body {
            }
 
 #inicio {
-          background-image: url("../images/fondo-contacto.png"); 
-          background-size: cover;
+            background-image: url("../images/fondo-contacto.png"); 
+            background-size: cover;
            }
           
 #proyectos{
@@ -51,7 +51,7 @@ footer {
 }
 footer a{
   color: white;
-  font-size: 8px;
+  font-size: 16px;
 }
 .btn { color: #370a6d ; 
        background-color: white;
@@ -102,7 +102,6 @@ footer .fa-linkedin-in {
 .link-rojo{
              font-size: 14px;
              color: #e20000;
-
 }
 
 .btn-proyecto{
@@ -116,3 +115,16 @@ footer .fa-linkedin-in {
                font-weight: 100;
 }
 
+.parrafostyle{
+               color: white;
+               font-size: 20px;
+               border: 1px solid white;
+               border-radius: 20px;
+               font-weight: 800;
+               padding: 10px;
+            }
+
+nav .active {
+           border-radius: 40px;
+           border: 1px solid #e20000;
+            }
