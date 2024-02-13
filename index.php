@@ -23,11 +23,11 @@
    </header>
        <main class="container">
          <div class="row">
-            <div class="col-12 text-center py-3">
+            <div class="col-12 text-center pb-3 pt-5">
                 <img src="images/cohete.svg" alt="cohete inicio" width="250px">
             </div>
              <div class="row">
-                <div class="col-12 text-center py-3">
+                <div class="col-12 text-center py-4">
                     <p class="text-center"><span class="parrafostyle">Hola; Bienvenido seas @ mi sitio digital con mi info profesional</span></p>
                 </div>
              </div> 

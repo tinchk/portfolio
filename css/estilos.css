@@ -53,6 +53,11 @@ footer a{
   color: white;
   font-size: 16px;
 }
+#proyectos footer a{
+  color: red;
+  font-size: 16px;
+   }
+
 .btn { color: #370a6d ; 
        background-color: white;
        border-radius: 20px;
@@ -74,7 +79,7 @@ footer .fa-linkedin-in {
   color: #ff4a49;
   background-color: white;
   padding: 5px;
-  font-size: 25px;
+  font-size: 34px;
   border-radius: 10px;
   border-bottom: 10px;
  }
@@ -84,7 +89,7 @@ footer .fa-linkedin-in {
   position: fixed;
   right: 70px;
   bottom: 0px;
-  font-size: 31px;
+  font-size: 34px;
   background-color: #370a6d;
   border-top-right-radius: 10px;
   border-top-left-radius: 10px;
@@ -94,7 +99,7 @@ footer .fa-linkedin-in {
   color: #ff4a49;
   background-color: white;
   padding: 5px;
-  font-size: 25px;
+  font-size: 34px;
   border-radius: 20px;
   border-bottom: 10px;
 }
@@ -124,7 +129,50 @@ footer .fa-linkedin-in {
                padding: 10px;
             }
 
-nav .active {
-           border-radius: 40px;
-           border: 1px solid #e20000;
+nav .active{
+       border-radius: 40px;
+       border: 1px solid #e20000;
             }
+
+#tecno{
+       background-color: #b50e0e; 
+       background-size: cover;
+       padding-bottom: 25px;
+       padding-top: 25px;
+       }
+
+#tecno h2{
+          font-size: 35px;
+          text-decoration: underline;
+          color: rgb(255, 255, 255);  
+          font-weight: bold;
+          text-transform: uppercase;
+          font-style: italic;
+          }
+#tecno img{
+           border: 1px solid red;
+           border-radius: 30px;
+           height: 200px;
+           }
+
+#cv {
+     background-color: #d91f1f;
+     background-size: cover;
+     }           
+
+#cv h3{
+       font-size: 30px; 
+       font-weight: bold;
+       font-style: italic;
+       color: aliceblue;
+       text-decoration: underline;
+    }     
+#cv p{
+       font-size: large;
+       color: white;
+}    
+
+#sobre-mi footer a{
+  color: red;
+  font-size: 16px;
+}

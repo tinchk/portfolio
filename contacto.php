@@ -24,7 +24,7 @@
     </header>
     <main class="container">
         <div class="row">
-            <div class="col-12 pt-3 pb-5">
+            <div class="col-12 py-5">
                 <h1>Contacto</h1>
             </div>
         </div>
